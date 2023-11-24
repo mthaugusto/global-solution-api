@@ -4,13 +4,13 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>br.com.fiap</groupId>
-    <artifactId>portoapi</artifactId>
+    <artifactId>global.solution</artifactId>
     <packaging>war</packaging>
     <version>0.0.1-SNAPSHOT</version>
     <name>portoapi</name>
 
     <build>
-        <finalName>portoapi</finalName>
+        <finalName>global.solution</finalName>
         <plugins>
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
